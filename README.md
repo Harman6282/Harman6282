@@ -21,6 +21,7 @@ You can click the Preview link to take a look at your changes.
 ![Prisma](https://camo.githubusercontent.com/0e1010436e5ce1759100cc28c4f7ee7ae913dd62918277844071f233854b8e98/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507269736d612d3244333734383f7374796c653d666f722d7468652d6261646765266c6f676f3d707269736d61266c6f676f436f6c6f723d7768697465)
 ![Docker](https://camo.githubusercontent.com/a1b0d308fd81d69d6cb59b067d1aa0d24ad250494bbe15d7e00086315e77ce59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f636b65722d3234393645443f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465)
 ![Turborepo](https://camo.githubusercontent.com/a7b6c74b7661e7cf571c9c72afca64bf069b4b6f512ac967f6ce5880cbd3c273/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547572626f7265706f2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d747572626f266c6f676f436f6c6f723d7768697465)
+![Golang](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Harman6282&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Harman6282&theme=dark&hide_border=false)<br/>

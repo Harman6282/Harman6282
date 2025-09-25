@@ -2,9 +2,8 @@
 
 - 👋 Hi, I’m Harmanpreet singh
 - 👀 I’m a full stack developer
-- 🌱 Exploring AI/ML
 - 💞️ I’m looking to collaborate in Real world projects 
-- 📫 emailme - harmans6282@gmail.com
+- 📫 emailme - harmans7626@gmail.com
 
 
 <!---

@@ -1,4 +1,4 @@
-# 💫 About Me:
+Hey
 
 - I'm a full stack engineer mostly a backend engineer
 - exploring distributed systems 
